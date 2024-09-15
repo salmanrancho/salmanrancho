@@ -120,7 +120,7 @@
 
 <h3 align="center">Featured Projects:</h3>
 <p align="center">
-  <a href="https://social-media-app-eight-rust.vercel.app/">
+  <a href="https://social-media-app-five-sage.vercel.app/">
     <img src="Screenshot_20240915-150623.png" alt="social-media-app" />
   </a>
 </p>
