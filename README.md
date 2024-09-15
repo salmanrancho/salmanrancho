@@ -121,7 +121,7 @@
 <h3 align="center">Featured Projects:</h3>
 <p align="center">
   <a href="https://social-media-app-eight-rust.vercel.app/">
-    <img src="https://via.placeholder.com/500x300?text=Social+Media+App" alt="social-media-app" />
+    <img src="https://social-media-app-eight-rust.vercel.app/" alt="social-media-app" />
   </a>
 </p>
 
